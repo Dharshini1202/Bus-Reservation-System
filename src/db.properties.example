@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/bus_reservation
+db.user=root
+db.password=YOUR_PASSWORD
